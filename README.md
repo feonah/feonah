@@ -9,6 +9,7 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="images/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="images/typescript.png" /></a>
 <a href="https://react.dev/" title="React"><img src="images/react.png" /></a>
+<a href="https://tailwindcss.com/" title="Tailwind"><img src="images/tailwind.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="images/docker.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="images/csharp.png" /></a>
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="images/dotnet.png" /></a>
